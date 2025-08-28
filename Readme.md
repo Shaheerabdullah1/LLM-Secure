@@ -1,4 +1,4 @@
-# GeoSynthAI-LLMRedact
+# LLM-Secure
 
 ## Overview
 This project serves as a testing phase for multiple Large Language Models providing security while utilizing the forefront of innovation that can achieved through propietary LLMs.
@@ -77,4 +77,5 @@ Feel free to **fork this project** and make improvements. If you encounter any i
 ## License
 
 This project is open-source and available under the **Apache 2.0 License**.
+
 
